@@ -16,7 +16,12 @@ Hobi yang paling hobi pasti (satu) di depan monitor, (dua) ngoding yang gak ada 
 
 ## Skill
 
-Sedikit keahlian saya diantaranya, (satu) manjat tower buat nyetting ptp, (dua) setting jaringan, (tiga) router mikrotik, (empat) pemrograman dengan php, pascal/delphi/vb, css, html, javascript, (lima) database MySQL, Couchdb.
+Sedikit keahlian saya diantaranya, 
+- (satu) manjat tower buat nyetting ptp, 
+- (dua) setting jaringan, 
+- (tiga) router mikrotik, 
+- (empat) pemrograman dengan php, pascal/delphi/vb, css, html, javascript, 
+- (lima) database MySQL, Couchdb.
 
 ## Kontak
 Kalau ada saran masukkan (maaf tidak menerima kritik, karena kritik itu pasti menjatuhkan dan tidak membangun) ada ide, mau nawarin kerjaan, bisa kontak saya di email: seorang.fitri@gmail.com atau di Telegram di http://t.me/masfitri
