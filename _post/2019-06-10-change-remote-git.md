@@ -1,3 +1,11 @@
+---
+layout: post
+title: Documentation
+description: How change Local Remote Directory Git in Linux System
+color: 212121
+author: masfitri
+---
+
 ## How change Local Remote Directory Git in Linux System
 ```
 بسم الله الرحمن الرحيم
