@@ -2,7 +2,7 @@
 layout: post
 title: How change Local Remote Directory Git in Linux System
 description: How change Local Remote Directory Git in Linux System
-color: 212121
+color: 00ff00
 author: masfitri
 ---
 بسم الله الرحمن الرحيم
