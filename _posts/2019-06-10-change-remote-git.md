@@ -6,6 +6,7 @@ color: 212121
 author: masfitri
 ---
 بسم الله الرحمن الرحيم
+<br/><br/>
 Title: Reconfig remote git directory<br/>
 Level: Beginner<br/>
 Refrence:<br/>
@@ -15,7 +16,7 @@ Purpose: <br/>
 `Expected to be able to replace the git remote directory via linux terminal independently`<br/>
 
 ## Problem
-{% highlight bash %}
+{% highlight php %}
 	fatal: '/home/saadbi/Dropbox/git/appipos.git/' does not appear to be a git repository
 	fatal: Could not read from remote repository.
 
