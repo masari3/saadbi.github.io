@@ -2,22 +2,22 @@
 layout: post
 title: How change Local Remote Directory Git in Linux System
 description: How change Local Remote Directory Git in Linux System
-color: 00ff00
+color: BF360C
 author: masfitri
 ---
 بسم الله الرحمن الرحيم
 <br/><br/>
-### Title: 
-Reconfig remote git directory<br/>
+## Title: 
+### Reconfig remote git directory<br/>
 
-### Level: 
-Beginner<br/>
+## Level: 
+### Beginner<br/>
 
-### Refrence:
+## Refrence:
 `http://google.com/`<br/>
 `https://stackoverflow.com/questions/10904339/github-fatal-remote-origin-already-exists`
 
-### Purpose:
+## Purpose:
 `Expected to be able to replace the git remote directory via linux terminal independently`
 
 ## Problem
@@ -29,7 +29,7 @@ Please make sure you have the correct access rights
 and the repository exists.
 {% endhighlight %}
 
-### Suggested solution
+## Suggested solution
 
 1. Open Terminal
 2. Change the shell working directory<br/>
