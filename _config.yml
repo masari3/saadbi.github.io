@@ -1,13 +1,13 @@
 # sites
 title: "saadBi"
 desctiption: "a Little Note"
-url: "http://saadbi.github.io"
+url: "https://saadbi.github.io"
 jobs: "GNU/Linux System Administrator - PHP"
 permalink: ':title/'
 
 markdown: kramdown
 baseurl: "/"
-full-version: "http://saadbi.github.io"
+full-version: "https://saadbi.github.io"
 
 sass:
     style: compressed
