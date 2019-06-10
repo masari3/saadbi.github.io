@@ -1,44 +1,39 @@
 ---
 layout: post
-title: Documentation
+title: How change Local Remote Directory Git in Linux System
 description: How change Local Remote Directory Git in Linux System
 color: 212121
 author: masfitri
 ---
-
-## How change Local Remote Directory Git in Linux System
-```
 بسم الله الرحمن الرحيم
-```
-* Title: </br>`Reconfig remote git directory`
-* Level: </br>`Beginner`
-* Refrence: </br>
-	- `http://google.com/` </br>
+Title: Reconfig remote git directory
+Level: Beginner
+Refrence:
+	- `http://google.com/`
 	- `https://stackoverflow.com/questions/10904339/github-fatal-remote-origin-already-exists`
-* Purpose:</br>`Expected to be able to replace the git remote directory via linux terminal independently`
+Purpose: `Expected to be able to replace the git remote directory via linux terminal independently`
 
 ## The Problem
-```sh
+{% highlight bash %}
 	fatal: '/home/saadbi/Dropbox/git/appipos.git/' does not appear to be a git repository
 	fatal: Could not read from remote repository.
 
 	Please make sure you have the correct access rights
 	and the repository exists.
-```
+{% endhighlight %}
+
 ## Suggested solution
 
 1. Open Terminal
-2. Change the shell working directory </br>
+2. Change the shell working directory
 	`cd ~/Dropbox/git/[project]`
-3. Change remote git directory </br>
+3. Change remote git directory
 	`git remote set-url origin ~/Dropbox/git/myproject.git/`
-4. Try to push your git project </br>
+4. Try to push your git project
 	`git push`
-5. The result must be </br>
+5. The result must be
 	`Everything up-to-date`
-6. Until this step the problem should have been solved! </br>
+6. Until this step the problem should have been solved!
 	`Done`
 
-```
 الحمد لله
-```
