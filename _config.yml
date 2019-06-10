@@ -1,7 +1,8 @@
-
-title: Abdurrohman Blog
-desctiption: Catatan-ku untuk kalian
-url: http://saadbi.github.io
+# sites
+title: "saadBi"
+desctiption: "a Little Note"
+url: "http://saadbi.github.io"
+jobs: "GNU/Linux System Administrator - PHP"
 permalink: ':title/'
 
 markdown: kramdown
@@ -11,6 +12,15 @@ full-version: "http://saadbi.github.io"
 sass:
     style: compressed
 
+# Authors
+authors:
+  fitri:
+    name: "Fitri Ariyanto"
+    display_name: masfitri
+    email: seorang.fitri@gmail.com
+    web: https://saadbi.github.io
+    twitter: https://twitter.com/im_maskha
+    description: "GNU/Linux system administrator."
   
 #optimization
 #compress.html
@@ -28,10 +38,10 @@ highlight: rouge
 
 
 # Tracker
-analytics: UA-83979019-1
+analytics: UA-41637272-1
 
 # Comments
-disqus-shortname: Abdurrahman-demo
+disqus-shortname: saadbi
 
 # Contact form
 # Go to https://getsimpleform.com and get a API token by signing up with your email and enter that here
@@ -43,3 +53,4 @@ version: 0.8
 plugins: 
     - jekyll-paginate
     - jekyll-seo-tag
+    - jekyll-archives
