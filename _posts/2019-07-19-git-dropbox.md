@@ -41,7 +41,7 @@ author: masfitri
 	`$ git init .`
 
 8. Create some file ex: myfile.txt<br/>
-	`$ echo "My First Files with Versioning Control Git Local to Dropbox Folder " > myfile.txt`
+	`$ echo "Control Git Local to Dropbox Folder " > myfile.txt`
 	
 9. Add your file to versioning control with command<br/>
 	`$ git add myfile.txt`
