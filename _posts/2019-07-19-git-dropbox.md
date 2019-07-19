@@ -48,26 +48,25 @@ author: masfitri
 	
 10. Commit the file after done creating or editing<br/>
 	`$ git commit -m "my file version 1.0"`
-	{% highlight yml %}
-		[master (root-commit) 0220f05] Add a test file
-		1 file changed, 1 insertion(+)
-		create mode 100644 myfile.txt
-	{% endhighlight %}
+{% highlight yml %}
+[master (root-commit) 0220f05] Add a test file
+1 file changed, 1 insertion(+)
+create mode 100644 myfile.txt
+{% endhighlight %}
 	
 11. Remote local to dropbox folder<br/>
 	`$ git remote add origin ~/Dropbox/Git/myapp.git`
 	
 12. Push to dropbox<br/>
 	`$ git push -u origin master`
-	{% highlight yml %}
-		Counting objects: 6, done.
-		Delta compression using up to 4 threads.
-		Compressing objects: 100% (2/2), done.
-		Writing objects: 100% (6/6), 458 bytes, done.
-		Total 6 (delta 0), reused 0 (delta 0)
-		Unpacking objects: 100% (6/6), done.
-		To /Users/jetheis/Dropbox/Git/mytestrepo.git
-		* [new branch]      master -> master
-		Branch master set up to track remote branch master from origin.
-	{% endhighlight %}
-
+{% highlight yml %}
+Counting objects: 6, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (6/6), 458 bytes, done.
+Total 6 (delta 0), reused 0 (delta 0)
+Unpacking objects: 100% (6/6), done.
+To /Users/jetheis/Dropbox/Git/mytestrepo.git
+* [new branch]      master -> master
+Branch master set up to track remote branch master from origin.
+{% endhighlight %}
