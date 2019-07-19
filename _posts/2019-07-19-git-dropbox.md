@@ -68,3 +68,5 @@ To /home/abdullah/Dropbox/Git/myapp.git
 * [new branch]      master -> master
 Branch master set up to track remote branch master from origin.
 {% endhighlight %}
+
+الحمد لله

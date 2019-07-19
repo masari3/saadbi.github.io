@@ -7,20 +7,20 @@ author: masfitri
 ---
 بسم الله الرحمن الرحيم
 <br/><br/>
-### Title: 
+#### Title: 
 `Reconfig remote git directory`<br/>
 
-### Level: 
+#### Level: 
 `Beginner`<br/>
 
-### Refrence:
+#### Refrence:
 - `http://google.com/`<br/>
 - `https://stackoverflow.com/questions/10904339/github-fatal-remote-origin-already-exists`
 
-### Purpose:
+#### Purpose:
 `Expected to be able to replace the git remote directory via linux terminal independently`
 
-### Problem
+#### Problem
 {% highlight yml %}
 fatal: '/home/saadbi/Dropbox/git/appipos.git/' does not appear to be a git repository
 fatal: Could not read from remote repository.
@@ -29,7 +29,7 @@ Please make sure you have the correct access rights
 and the repository exists.
 {% endhighlight %}
 
-### Suggested solution
+#### Suggested solution
 1. Open Terminal
 2. Change the shell working directory<br/>
 	`cd ~/Dropbox/git/[project]`
