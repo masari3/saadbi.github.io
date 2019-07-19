@@ -2,7 +2,7 @@
 layout: post
 title: Local Remote Directory Git in GNU/Linux System
 description: Local Remote Directory Git in GNU/Linux System
-color: BF360C
+color: BF1800C
 author: masfitri
 ---
 
