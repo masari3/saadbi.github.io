@@ -1,11 +1,17 @@
-## No space left on device (ENOSPC) when starting mkdocs
+---
+layout: post
+title: No space left on device (ENOSPC) when starting mkdocs
+description: No space left on device (ENOSPC) when starting mkdocs
+color: f39c12
+author: masfitri
+---
 
 بسم الله الرحمن الرحيم
-
+<br/><br/>
 * Title: </br>`Errno=No space left on device (ENOSPC)`
 * Level: </br>`Beginner`
 * Refrence: </br>
-	- `https://github.com/edx/configuration/issues/4015`
+	- `https://github.com/edx/configuration/issues/4015` <br/>
 * Purpose: </br>
 `Run the mkdocs application without error messages`
 
