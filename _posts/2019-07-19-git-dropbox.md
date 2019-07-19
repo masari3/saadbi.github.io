@@ -66,7 +66,7 @@ Compressing objects: 100% (2/2), done.
 Writing objects: 100% (6/6), 458 bytes, done.
 Total 6 (delta 0), reused 0 (delta 0)
 Unpacking objects: 100% (6/6), done.
-To /Users/jetheis/Dropbox/Git/mytestrepo.git
+To /home/abdullah/Dropbox/Git/myapp.git
 * [new branch]      master -> master
 Branch master set up to track remote branch master from origin.
 {% endhighlight %}
