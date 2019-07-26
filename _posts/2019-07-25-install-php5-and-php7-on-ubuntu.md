@@ -26,7 +26,7 @@ How to install different php 5.x and php 7.x on Ubuntu 18.04 LTS
 1. Add repository sourcelist for php5xxx with this command in your beautiful terminal <br/>
 `sudo add-apt-repository ppa:ondrej/php`
 
-2. If our ubuntu not automatic Update, run manual update 
+2. If our ubuntu not automatic Update, run manual update <br/>
 `sudo apt update`
 
 3. Install php 5 then install php 7, we can type one line command like this  <br/>
@@ -39,6 +39,6 @@ How to install different php 5.x and php 7.x on Ubuntu 18.04 LTS
 step one: `sudo a2dismod php7.2`  <br/>
 step two: `sudo a2enmod php5.6`
 
-6. how to enable php 7
+6. how to enable php 7 <br/>
 step one: `sudo a2dismod php5.6`  <br/>
 step two: `sudo a2enmod php7.2`
