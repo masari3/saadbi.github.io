@@ -2,7 +2,7 @@
 layout: post
 title: How to list all installed packages in Linux (ubuntu)
 description: How to list all installed packages in Linux (ubuntu)
-color: B0360C
+color: C1360C
 author: masfitri
 ---
 بسم الله الرحمن الرحيم
@@ -18,14 +18,14 @@ author: masfitri
 - `https://askubuntu.com/questions/17823/how-to-list-all-installed-packages`
 
 #### Purpose:
-`I'd like to output a list of all installed packages into a text file so that I can review it and bulk-install on another system. How would I do this?`
+I'd like to output a list of all installed packages into a text file so that I can review it and bulk-install on another system. How would I do this?
 
 #### Suggested solution
-##### Ubuntu 14.04 and above
-The apt tool on Ubuntu 14.04 and above makes this very easy.
+#### Ubuntu 14.04 and above
+The apt tool on Ubuntu 14.04 and above makes this very easy.<br/>
 `apt list --installed`
 
-##### Older Versions
+#### Older Versions
 To get a list of packages installed locally do this in your terminal:<br/>
 `dpkg --get-selections | grep -v deinstall`
 
