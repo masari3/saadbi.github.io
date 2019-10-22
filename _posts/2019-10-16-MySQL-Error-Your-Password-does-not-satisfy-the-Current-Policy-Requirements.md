@@ -2,7 +2,7 @@
 layout: post
 title: MySQL Error Password
 description: Error Your Password does not satisfy the Current Policy Requirements
-color: 30dfcd
+color: e9ed07
 author: masfitri
 ---
 
