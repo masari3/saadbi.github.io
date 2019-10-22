@@ -2,7 +2,7 @@
 layout: post
 title: MySQL Error : "Your Password does not satisfy the Current Policy Requirements"
 description: Error Your Password does not satisfy the Current Policy Requirements
-color: 30cccd
+color: cdcdcd
 author: masfitri
 ---
 
@@ -23,11 +23,11 @@ MySQL Error : "Your Password does not satisfy the Current Policy Requirements"
 
 ### Suggested solution
 
-SHOW VARIABLES LIKE 'validate_password%';
-SET GLOBAL validate_password_policy=LOW;
-validate_password_policy=LOW
-sudo service mysqld restart
+`SHOW VARIABLES LIKE 'validate_password%';`
+`SET GLOBAL validate_password_policy=LOW;`
+`validate_password_policy=LOW`
+`sudo service mysqld restart`
 
 Uninstall Plugin used for Password Validation
-# mysql -u root –p
-UNINSTALL PLUGIN validate_password;
+`mysql -u root –p`
+`UNINSTALL PLUGIN validate_password;`
